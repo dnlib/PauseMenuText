@@ -26,7 +26,7 @@ The structure is as follows:
   "map": "Map name",
   "status": "Status",
   "game": "Game",
-  "info", "Info",
+  "info": "Info",
   "settings": "Settings",
   "rockstar_editor": "Rockstar Editor"
 }
