@@ -6,7 +6,7 @@
         <Compile Include="../Shared/**/*.cs" />
     </ItemGroup>
     <ItemGroup>
-        <PackageReference Include="Newtonsoft.Json" Version="11.0.1" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
         <PackageReference Update="CitizenFX.Core.Client" Version="1.0.5626" />
     </ItemGroup>
 </Project>
